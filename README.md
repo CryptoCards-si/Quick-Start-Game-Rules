@@ -55,4 +55,4 @@
 
 ## WINNER: When the game ends, everyone calculates the current market value of their value cards. Whoever has the biggest portfolio, wins. Use this calculator to quickly determine the winner.
 
-Crypto Cards © 2018-2020
+Crypto Cards © 2018-2021
